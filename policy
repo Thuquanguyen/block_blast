@@ -1,1 +1,84 @@
-dsdsds
+Block Blast — Policies
+Privacy Policy & Terms of Service
+Privacy Policy
+Terms of Service
+1. What this covers
+2. Data we collect
+3. Third-party services
+4. Advertising & tracking
+5. Leaderboard & nickname
+6. Data retention
+7. Your choices
+8. Children's privacy
+9. Changes to this policy
+10. Contact
+Effective: 2026-09-09
+Version 1.0
+This policy explains what Block Blast collects when you play, why, and how you're in control of it. Block Blast is a puzzle game — it does not ask for your name, email, or an account of any kind to play.
+
+1
+What this covers
+This Privacy Policy applies to the Block Blast mobile app on iOS and Android. It does not cover third-party sites you may reach through links inside the app (such as a store listing or a rewarded-ad landing page).
+
+2
+Data we collect
+Block Blast is built to work without a sign-up. Here is exactly what leaves your device, and why:
+
+Data	Purpose	Identifiable?
+Anonymous device ID	Created by Firebase Authentication (anonymous sign-in) so your Leaderboard entry stays yours across sessions	Not tied to you personally
+Nickname	What you choose to type in Settings; shown publicly on the Leaderboard	Only what you type
+Gameplay & usage events	Screens opened, games played, scores — via Firebase Analytics, to see what's fun and what's not	Aggregated
+Advertising identifier	Used by Google AdMob to show and measure ads (only after you allow tracking when iOS asks)	Ad-related
+Local settings	Sound/music/haptics toggles, best score, hint/undo counts — stored only on your device	Stays on-device
+We never ask for your name, email address, phone number, or photos, and Block Blast has no chat or messaging feature.
+
+3
+Third-party services
+Block Blast is built on Google's Firebase platform and uses Google's ad network. Each has its own privacy policy governing data it processes on our behalf:
+
+Firebase Analytics — anonymized gameplay & usage statistics
+Firebase Authentication (Anonymous) — the device ID behind your Leaderboard entry
+Cloud Firestore — stores your Leaderboard entry (nickname + score)
+Firebase Remote Config — lets us adjust app behavior remotely; carries no personal data
+Google AdMob — serves the in-app ads that keep Block Blast free
+See policies.google.com/privacy for how Google handles this data.
+
+4
+Advertising & tracking
+Block Blast shows banner, interstitial, and rewarded ads through Google AdMob. On iOS, the App Tracking Transparency prompt asks your permission before any ad identifier is used for personalized ads — if you decline, you'll still see ads, just not tailored to you.
+
+🎯
+Watching a rewarded ad is always your choice — it's offered when you'd like a revive or a bonus, never required to keep playing.
+5
+Leaderboard & nickname
+The global Leaderboard is public by design: anyone with the app can see the nickname and score of anyone who has opted in by setting a nickname and playing. Don't use your real name or anything identifying as your nickname if you'd rather stay anonymous.
+
+6
+Data retention
+Your Leaderboard entry is kept until you request its removal (see Contact) or it becomes inactive for an extended period. Analytics data is retained by Firebase per Google's standard retention windows. Local settings live on your device until you uninstall the app or clear its data.
+
+7
+Your choices
+Change or clear your nickname anytime in Settings.
+Turn off personalized ads via the App Tracking Transparency prompt or your device's ad settings.
+Request deletion of your Leaderboard entry by emailing us with your in-game nickname.
+Uninstall the app to remove all locally stored data immediately.
+8
+Children's privacy
+Block Blast is not directed at children under 13, and we do not knowingly collect personal information from them. If you believe a child has provided us data, contact us and we'll remove it.
+
+9
+Changes to this policy
+We may update this policy as the app evolves. Material changes will be reflected by updating the "Effective" date above; continued use of the app after a change means you accept the update.
+
+10
+Contact
+Questions about this policy or a data request:
+
+Support email
+[your-support-email@example.com]
+Developer
+[Your developer / company name]
+✏️
+Bracketed fields like [your-support-email@example.com] are placeholders — swap in your real contact details before publishing this page for App Store review.
+Block Blast Privacy Policy · Version 1.0 · Effective 2026-09-09
