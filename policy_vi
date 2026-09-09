@@ -1,0 +1,103 @@
+Block Blast — Chính sách
+Chính sách quyền riêng tư & Điều khoản dịch vụ
+Chính sách quyền riêng tư
+Phạm vi áp dụng
+Dữ liệu chúng tôi thu thập
+Dịch vụ của bên thứ ba
+Quảng cáo & theo dõi
+Bảng xếp hạng & biệt danh
+Thời gian lưu trữ dữ liệu
+Lựa chọn của bạn
+Quyền riêng tư của trẻ em
+Thay đổi chính sách này
+Liên hệ
+
+Có hiệu lực: 09/09/2026
+Phiên bản 1.0
+
+Chính sách này giải thích những dữ liệu mà Block Blast thu thập khi bạn chơi game, mục đích thu thập và cách bạn có thể kiểm soát dữ liệu của mình. Block Blast là một trò chơi giải đố — trò chơi không yêu cầu bạn cung cấp tên, email hoặc tạo bất kỳ tài khoản nào để chơi.
+
+1. Phạm vi áp dụng
+
+Chính sách quyền riêng tư này áp dụng cho ứng dụng di động Block Blast trên iOS và Android. Chính sách này không áp dụng cho các trang web của bên thứ ba mà bạn có thể truy cập thông qua các liên kết bên trong ứng dụng (chẳng hạn như trang trên cửa hàng ứng dụng hoặc trang đích của quảng cáo có thưởng).
+
+2. Dữ liệu chúng tôi thu thập
+
+Block Blast được thiết kế để hoạt động mà không cần đăng ký tài khoản. Dưới đây là những dữ liệu thực sự được gửi khỏi thiết bị của bạn và mục đích sử dụng:
+
+Dữ liệu	Mục đích	Có thể nhận diện bạn?
+ID thiết bị ẩn danh	Được tạo bởi Firebase Authentication (đăng nhập ẩn danh) để duy trì mục Bảng xếp hạng của bạn giữa các phiên chơi	Không gắn với danh tính cá nhân của bạn
+Biệt danh (Nickname)	Nội dung bạn tự nhập trong phần Cài đặt; được hiển thị công khai trên Bảng xếp hạng	Chỉ bao gồm nội dung bạn tự nhập
+Dữ liệu chơi game & sự kiện sử dụng	Các màn hình đã mở, số ván đã chơi, điểm số — thông qua Firebase Analytics, nhằm tìm hiểu những tính năng được yêu thích	Được tổng hợp
+Mã nhận dạng quảng cáo	Được Google AdMob sử dụng để hiển thị và đo lường quảng cáo (chỉ sau khi bạn cho phép theo dõi khi iOS yêu cầu)	Liên quan đến quảng cáo
+Cài đặt cục bộ	Tùy chọn âm thanh/nhạc/rung, điểm cao nhất, số lượt gợi ý/hoàn tác — chỉ được lưu trên thiết bị của bạn	Chỉ lưu trên thiết bị
+
+Chúng tôi không bao giờ yêu cầu tên, địa chỉ email, số điện thoại hoặc ảnh của bạn, và Block Blast không có tính năng trò chuyện hoặc nhắn tin.
+
+3. Dịch vụ của bên thứ ba
+
+Block Blast được xây dựng trên nền tảng Google Firebase và sử dụng mạng quảng cáo của Google. Mỗi dịch vụ có chính sách quyền riêng tư riêng, quy định cách dịch vụ đó xử lý dữ liệu thay mặt chúng tôi:
+
+Firebase Analytics — thống kê về hoạt động chơi game và sử dụng ở dạng ẩn danh.
+Firebase Authentication (Anonymous) — ID thiết bị đứng sau mục Bảng xếp hạng của bạn.
+Cloud Firestore — lưu trữ mục Bảng xếp hạng của bạn (biệt danh + điểm số).
+Firebase Remote Config — cho phép chúng tôi điều chỉnh hành vi của ứng dụng từ xa; không truyền dữ liệu cá nhân.
+Google AdMob — cung cấp quảng cáo trong ứng dụng để duy trì Block Blast miễn phí.
+
+Xem chính sách tại policies.google.com/privacy để biết cách Google xử lý dữ liệu này.
+
+4. Quảng cáo & theo dõi
+
+Block Blast hiển thị quảng cáo dạng banner, quảng cáo xen kẽ (interstitial) và quảng cáo có thưởng (rewarded) thông qua Google AdMob.
+
+Trên iOS, lời nhắc App Tracking Transparency (ATT) sẽ yêu cầu bạn cho phép trước khi bất kỳ mã nhận dạng quảng cáo nào được sử dụng cho quảng cáo được cá nhân hóa — nếu bạn từ chối, bạn vẫn sẽ thấy quảng cáo, nhưng quảng cáo sẽ không được điều chỉnh riêng theo bạn.
+
+🎯 Việc xem quảng cáo có thưởng luôn là lựa chọn của bạn — quảng cáo này được cung cấp khi bạn muốn nhận lượt hồi sinh hoặc phần thưởng, và không bao giờ bắt buộc để tiếp tục chơi.
+
+5. Bảng xếp hạng & biệt danh
+
+Bảng xếp hạng toàn cầu được thiết kế để công khai: bất kỳ ai sử dụng ứng dụng đều có thể nhìn thấy biệt danh và điểm số của những người đã tham gia bằng cách đặt biệt danh và chơi game.
+
+Nếu bạn muốn giữ ẩn danh, không nên sử dụng tên thật hoặc bất kỳ thông tin nào có thể nhận diện bạn làm biệt danh.
+
+6. Thời gian lưu trữ dữ liệu
+
+Mục Bảng xếp hạng của bạn được lưu giữ cho đến khi bạn yêu cầu xóa hoặc mục đó trở nên không hoạt động trong một khoảng thời gian dài.
+
+Dữ liệu Analytics được Firebase lưu giữ theo thời gian lưu trữ tiêu chuẩn của Google.
+
+Các cài đặt cục bộ được lưu trên thiết bị của bạn cho đến khi bạn gỡ cài đặt ứng dụng hoặc xóa dữ liệu của ứng dụng.
+
+7. Lựa chọn của bạn
+
+Bạn có thể:
+
+Thay đổi hoặc xóa biệt danh bất cứ lúc nào trong phần Cài đặt.
+Tắt quảng cáo được cá nhân hóa thông qua lời nhắc App Tracking Transparency hoặc cài đặt quảng cáo trên thiết bị.
+Yêu cầu xóa mục Bảng xếp hạng của bạn bằng cách gửi email cho chúng tôi kèm biệt danh trong game.
+Gỡ cài đặt ứng dụng để xóa ngay toàn bộ dữ liệu được lưu trữ cục bộ trên thiết bị.
+8. Quyền riêng tư của trẻ em
+
+Block Blast không hướng đến trẻ em dưới 13 tuổi và chúng tôi không cố ý thu thập thông tin cá nhân của trẻ em.
+
+Nếu bạn cho rằng một trẻ em đã cung cấp dữ liệu cho chúng tôi, vui lòng liên hệ với chúng tôi và chúng tôi sẽ xóa dữ liệu đó.
+
+9. Thay đổi chính sách này
+
+Chúng tôi có thể cập nhật chính sách này khi ứng dụng phát triển.
+
+Những thay đổi quan trọng sẽ được thể hiện bằng cách cập nhật ngày "Có hiệu lực" ở phía trên. Việc tiếp tục sử dụng ứng dụng sau khi có thay đổi đồng nghĩa với việc bạn chấp nhận nội dung cập nhật.
+
+10. Liên hệ
+
+Nếu bạn có câu hỏi về chính sách này hoặc muốn yêu cầu liên quan đến dữ liệu:
+
+Email hỗ trợ
+[your-support-email@example.com]
+
+Nhà phát triển
+[Your developer / company name]
+
+✏️ Lưu ý: Các trường được đặt trong dấu ngoặc vuông, chẳng hạn như [your-support-email@example.com], là các thông tin placeholder — hãy thay thế bằng thông tin liên hệ thực tế của bạn trước khi công bố trang này để gửi xét duyệt trên App Store.
+
+Chính sách quyền riêng tư Block Blast · Phiên bản 1.0 · Có hiệu lực 09/09/2026
